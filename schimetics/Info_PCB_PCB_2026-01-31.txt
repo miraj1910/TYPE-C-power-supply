@@ -1,0 +1,19 @@
+﻿Project Title: 		usb-c project
+Borard Title: 		usb-c
+PCB Title: 		PCB
+Time: 		2026-01-31 12:22:40
+
+Borard Size: 		30mm x 30mm
+Layers: 		Total 22, Copper 2
+
+Devices: 		7
+Footprints: 		6
+Components: 		Total 13,Top Layer 13,Bottom Layer 0
+Pads: 		Total 30, Table Stick 20,Metallized Hole 10, Nonmetallic Hole 0
+Nets: 		Total 5, Unrouted 0
+
+Slot Region: 		0
+Vias: 		Total 10, Through Vias 10, Blind Or Buried Vais 0
+CopperAreas: 		5
+Length of Tracks: 		25.429mm
+
